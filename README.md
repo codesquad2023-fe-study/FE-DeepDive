@@ -1,5 +1,6 @@
-<p align="center"><img src="https://img.shields.io/badge/Codesquad%202023%20FE%20Deep%20Dive%20Study-blue
-"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Codesquad%202023%20FE%20Deep%20Dive%20Study-blue"/>
+</p>
 
 ## 💡 소개
 
